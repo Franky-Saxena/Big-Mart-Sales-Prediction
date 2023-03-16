@@ -2,6 +2,13 @@
 # BIGMART SUPERMARKET Sales Prediction
 
 It is a project of Analysis on BigMart supermarket data to check which product is having highest sales on which store We did the Analysis on the data and found the.
+We tested the different types of Model to predict the Sales of the outlet:
+* Linear Regression
+* DecisionTree Regressor
+* RandomForest Regressor
+* XGBoost Regressor
+
+``` And we found that DECISIONTREE REGRESSOR is having the highest accuracy among them.```
 #### Useful insight as:
 * There is about 9185 ```Low Fat``` product and 5019 ``` Regular ``` products.
 * Supermarket Type3 is having highest outlet sales approximately ```3300```.
